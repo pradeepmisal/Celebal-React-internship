@@ -1,7 +1,7 @@
 import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
 
 // Last.fm API base URL and your API key
-const API_KEY = 'aff4a4a07a83488927249aa6ff4ce3fa';
+const API_KEY = '';
 const BASE_URL = 'https://ws.audioscrobbler.com/2.0/';
 
 export const lastfmApi = createApi({
