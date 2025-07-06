@@ -2,8 +2,6 @@
 
 Welcome to **Wavly**, a modern Spotify clone built as part of **Task 5** of the Celebal React Internship. This project replicates the core UI and functionality of Spotify with a clean and unique twist, featuring real-time music data powered by the Shazam Core API.
 
-🚀 **Live Demo**: [Wavly on Netlify](https://cosmic-semolina-b97f2c.netlify.app/)
-
 ---
 
 ## 🛠️ Tech Stack
@@ -14,7 +12,7 @@ Welcome to **Wavly**, a modern Spotify clone built as part of **Task 5** of the 
 - **React Router DOM**
 - **Shazam Core API (via RapidAPI)**
 - **HeroIcons**
-- **Netlify (for deployment)**
+  
 
 ---
 
