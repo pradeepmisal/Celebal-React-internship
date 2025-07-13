@@ -11,7 +11,6 @@ Welcome to **Wavly**, a modern Spotify clone built as part of **Task 5** of the 
 - **Redux Toolkit**
 - **React Router DOM**
 - **Shazam Core API (via RapidAPI)**
-- **HeroIcons**
   
 
 ---
