@@ -1,11 +1,5 @@
-Visit: https://mern-ecommerce-demo.onrender.com
 
-For Demo, rendering may take 30 - 50 seconds. Please use:
-
-Username: admin@gmail.com
-password: admin123
-
-For full demo of the following features:
+features:
 
 - 🗄️ MongoDB & Redis Integration
 - 🔐 Robust Authentication System
